@@ -1,4 +1,4 @@
-Goal
+Goal: 
 Simulate a small corporate environment.
 Technologies
 * Windows Server 2022
