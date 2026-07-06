@@ -30,14 +30,15 @@ Created Organizational Units:
 - Groups
 - Servers
 
-<img width="189" height="158" alt="image" src="https://github.com/user-attachments/assets/0ede1dc3-0e81-4edf-be4e-d0f70b219ced" />
+- <img width="189" height="158" alt="image" src="https://github.com/user-attachments/assets/0ede1dc3-0e81-4edf-be4e-d0f70b219ced" />
 
 Departments:
-<img width="293" height="120" alt="image" src="https://github.com/user-attachments/assets/0d4984f9-22f3-4b8e-9678-78b30662f37a" />
+
+- <img width="293" height="120" alt="image" src="https://github.com/user-attachments/assets/0d4984f9-22f3-4b8e-9678-78b30662f37a" />
 
 Security groups:
 
-<img width="429" height="146" alt="image" src="https://github.com/user-attachments/assets/9b196abf-11eb-4176-a208-cfbfc02ee528" />
+- <img width="429" height="146" alt="image" src="https://github.com/user-attachments/assets/9b196abf-11eb-4176-a208-cfbfc02ee528" />
 
 1 test user in every group
 
